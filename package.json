@@ -1,5 +1,5 @@
 {
-  "name": "react-auth",
+  "name": "coolman-dev425",
   "version": "1.0.0",
   "description": "Authentication library for React.",
   "author": "Stormpath, Inc.",
@@ -15,10 +15,9 @@
   "jsnext:main": "es6/index",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-auth/react-auth.git"
+    "url": "https://github.com/coolman-dev425/react-auth-example.git"
   },
-  "homepage": "https://react-auth.github.io/react-auth/",
-  "bugs": "https://github.com/react-auth/react-auth/issues",
+  "bugs": "https://github.com/coolman-dev425/react-auth/issues",
   "scripts": {
     "build": "npm run build-cjs && npm run build-es6 && npm run build-umd && npm run build-min",
     "build-cjs": "NODE_ENV=production webpack --output-library-target commonjs2 src/index.js ./lib/index.js",
